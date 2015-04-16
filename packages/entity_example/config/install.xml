@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="Entity Example" path="/dashboard/entities" filename="/dashboard/entities.php" pagetype="" description="" package="entity_example"></page>
+        <page name="Search" path="/dashboard/entities/search" filename="/dashboard/entities/search.php" pagetype="" description="" package="entity_example"></page>
+    </singlepages>
+</concrete5-cif>
